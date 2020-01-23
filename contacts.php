@@ -8,7 +8,7 @@ include("functions/functions.php");
 
 <head> 
 
- <title>Instant Movers Official website</title>
+ <title>Movers website</title>
    <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -59,14 +59,14 @@ include("functions/functions.php");
 <script type="text/javascript" src="engine1/script.js"></script>
 <div class="main_wrapper">
 <div id="info">
-<p style="font-size:20px"><b>Instant Movers contacts.</b></p>
-<p>Phone Numbers: +254729068593/0714509651.</p>
-<p>Email: instantmovers2012@gmail.com</p>
-<p>Telephone: +254 020 310112</p>
+<p style="font-size:20px"><b> Movers contacts.</b></p>
+<p>Phone Numbers:.</p>
+<p>Email: @gmail.com</p>
+<p>Telephone: +254</p>
 <p>Fax: +254 020 228314</p>
-<p>Website: instantmovers.co.ke</p>
+<p>Website: movers.co.ke</p>
 
-http://www.instantmovers.co.ke 
+http://#
 
 </div>
 <div id="footer"> 
