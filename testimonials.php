@@ -6,11 +6,11 @@ include("functions/functions.php");
 
 <head> 
 
- <title>Instant Movers Official website</title>
+ <title>Movers website</title>
    <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="instant movers is a company speciliazed in quick and efficient relocation of its clients' belongings. Lets move together">
+    <meta name="description" content=" movers is a company speciliazed in quick and efficient relocation of its clients' belongings. Lets move together">
 	<meta name="keywords" content="movers,moving, Home relocation,office relocation,mover">
    <link rel="stylesheet" href="styles/styles.css" media="all"/>
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
